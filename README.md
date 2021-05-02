@@ -25,5 +25,8 @@ THEN the password is either displayed in an alert or written to the page
 This project gave me a challenge with javascript intuition I did not know I had.   
 I hope to make several more password generators to further explore different methods of javascript.   
 Password creation is a very important aspect of life online,   
-and it has only grown more secure through recent years. 
+and it has only grown more secure through recent years.   
+
+![screenshot](/Assets/03-javascript-homework-demo.png)
+![personal logo](/Assets/logo7.png)
 
