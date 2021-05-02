@@ -20,7 +20,7 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
-```
+
 
 This project gave me a challenge with javascript intuition I did not know I had.   
 I hope to make several more password generators to further explore different methods of javascript.   
