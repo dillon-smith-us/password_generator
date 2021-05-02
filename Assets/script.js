@@ -19,7 +19,7 @@ function promptUser() {
       parseInt(passwordLength) > 128 ||
       passwordLength === "" || isNaN(passwordLength)
    ) {
-    !passwordlength = prompt(
+    passwordlength = prompt(
       "error, password length must be 8 - 128 characters in length"
     );
   }
