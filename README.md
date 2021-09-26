@@ -1,32 +1,11 @@
-** TASK REQUIREMENTS **
+## Password-Generator
 
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
-```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN prompted for character types to include in the password
-THEN I choose lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+This project uses a script to generate a random password using numbers, lowercase, uppercase, and special characters specified to the user's preferences.
 
+## Summary
 
-This project gave me a challenge with javascript intuition I did not know I had.   
-I hope to make several more password generators to further explore different methods of javascript.   
-Password creation is a very important aspect of life online,   
-and it has only grown more secure through recent years.   
+This is a simple static html page that uses a script.js to prompt the user on preferences for their password creation. Simply click the generate password button, and begin your preference prompt. Follow the directions of the prompt to generate a strong password.
+<br>
 
 ![screenshot](/Assets/03-javascript-homework-demo.png)
-![personal logo](/Assets/logo7.png)
 
